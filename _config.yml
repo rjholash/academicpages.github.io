@@ -83,8 +83,9 @@ author:
   name             : "Dr. John Holash"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         : "University of Calgary / Faculty of Kinesiology"
+  location         : "Calgary, AB. Canada"
+  employer         : "University of Calgary"
+  faculty          : "Faculty of Kinesiology"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Qx4U24oAAAAJ"
   email            :
